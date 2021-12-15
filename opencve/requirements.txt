@@ -12,6 +12,7 @@ Flask-Gravatar==0.5.0
 Flask-Paginate==0.5.2
 Flask-RESTful==0.3.8
 Flask-Limiter==1.4
+Flask-Sendmail
 
 # Database
 SQLAlchemy==1.3.1
@@ -40,3 +41,5 @@ jinja2==2.11.3
 # Required by WTForms (new bug?)
 # see: https://stackoverflow.com/questions/61356834/wtforms-install-email-validator-for-email-validation-support
 email_validator==1.1.0
+
+openpyxl
